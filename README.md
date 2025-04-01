@@ -44,5 +44,21 @@ This project uses data from The Movie Database (TMDB). Register and obtain your 
 
 - **Get your API key:** https://www.themoviedb.org/
 
+## Project Structure
+The main structure of your React application is as follows:
+
+frontend/
+├── node_modules/
+├── public/
+│   └── index.html
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── App.jsx
+│   └── main.jsx
+├── .gitignore
+├── package.json
+├── package-lock.json
+└── vite.config.js
 
 
