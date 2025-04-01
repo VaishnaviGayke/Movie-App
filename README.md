@@ -70,3 +70,23 @@ frontend/
 - **App.jsx:** Main React component.
 
 - **main.jsx:** Entry point to render the React application.
+
+## Dependencies
+Major dependencies include:
+
+- React
+
+- React DOM
+
+- React Router DOM
+
+- Vite
+
+## Scripts
+The following scripts are available in your project:
+
+- **npm run dev:** Starts the development server.
+
+- **npm run build:** Builds the project for production.
+
+- **npm run preview:** Previews the built version of your app.
