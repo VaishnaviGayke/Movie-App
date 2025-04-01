@@ -61,4 +61,12 @@ frontend/
 ├── package-lock.json
 └── vite.config.js
 
+- **src/:** Contains all source code.
 
+- **components/:** Contains reusable components.
+
+- **assets/:** Stores static files like images or icons.
+
+- **App.jsx:** Main React component.
+
+- **main.jsx:** Entry point to render the React application.
